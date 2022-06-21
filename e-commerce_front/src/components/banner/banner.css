@@ -1,0 +1,16 @@
+.title {
+	text-align: center;
+}
+.title h1 {
+	letter-spacing: 12px;
+	margin: 0;
+}
+.title h2 {
+	color: #c19d56;
+	font-family: "Great Vibes", cursive;
+	margin: 0;
+}
+.bg-banner {
+	background-image: url(https://dolcino.qodeinteractive.com/wp-content/uploads/2018/10/h1-slide-1.jpg);
+	height: 100vh;
+}
